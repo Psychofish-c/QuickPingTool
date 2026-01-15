@@ -1,6 +1,7 @@
 # QuickPingTool
 
 A lightweight and efficient local network scanning tool built with Python and Tkinter for Windows environments.
+![image](https://github.com/Psychofish-c/QuickPingTool/blob/main/dist/7416002b-2003-4e08-9d06-1e119f04a3cb.png)
 
 ## Features
 - **Network Discovery**: Scan IP ranges to find active devices on your local network

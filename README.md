@@ -21,7 +21,7 @@ A lightweight and efficient local network scanning tool built with Python and Tk
 3. Click "Start Scan" to begin network discovery
 4. Right-click any IP in the results table to perform a Tracert
 5. Save results using the "Save Results" button
-### OR JUST DOWNLOAD THE MAIN.EXE FILE IN DIST FOLDER
+### OR JUST DOWNLOAD THE `dist/main.exe`
 
 ## How It Works
 The tool uses Windows command-line utilities (`ping`, `arp`, `tracert`) to gather network information and presents it in a structured table format. All scanning operations run in separate threads to keep the interface responsive.
